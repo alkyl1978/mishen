@@ -4,3 +4,13 @@
 *.iex
 *.build_log.htm
 *.uvgui.Mixail
+*.axf
+*.hex
+*.htm
+*.lnp
+*.sct
+*.uvgui_Mixail.bak
+*.dep
+*.lst
+*.uvopt
+*.uvproj
