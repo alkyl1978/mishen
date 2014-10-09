@@ -1,0 +1,6 @@
+*.crf
+*.o
+*.d
+*.iex
+*.build_log.htm
+*.uvgui.Mixail
